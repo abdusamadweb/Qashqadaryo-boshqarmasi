@@ -37,10 +37,6 @@ export default {
     text-align: center;
     margin-bottom: 60px;
   }
-
-  &__list {
-    gap: 25px;
-  }
 }
 
 </style>
