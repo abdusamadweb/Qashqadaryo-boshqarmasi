@@ -1,3 +1,6 @@
+# You actually view site with https://qashqadaryo-byabdusamad.netlify.app/
+
+
 # my-app
 
 ## Project setup
